@@ -20,34 +20,24 @@ Sou estudante de ADS em transição de carreira para a área de Dados. Atualment
 
 ### 👾 Linguagens e Tecnologias
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
 
+###
 
-<p align="left">
-  <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=hisjoao&locale=en&mode=daily&theme=kacho_ga&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
 
-  <img align="left" alt="SQL" title="SQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+###
 
-<img align="left" alt="Excel" title="Excel" width="35px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" style="filter: invert(42%) sepia(85%) saturate(500%) hue-rotate(90deg);" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hisjoao.hisjoao&left_color=saddlebrown&right_color=rosybrown"  />
+</div>
 
-<img align="left" alt="Power BI" title="Power BI" width="35px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" style="filter: invert(75%) sepia(80%) saturate(500%) hue-rotate(10deg);" />
-  
-  <img align="left" alt="Pandas" title="Pandas" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-</p>
-
-<br clear="left"/>
-
-<br/>
-
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align= "left"
-    alt="GitHub Stats"
-    height="200"
-    style="pading-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=hisjoao&show_icons=true&bg_color=FAF3E0&title_color=3E2723&text_color=4E342E&icon_color=8D6E63&border_color=D7CCC8" 
-  />
+###
