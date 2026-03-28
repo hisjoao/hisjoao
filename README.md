@@ -1,8 +1,58 @@
-# 🐱‍💻 João Miranda
-*`Data Analyst`* 
+#
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=964B00&center=true&width=435&lines=Oi%2C+sou+o+Jo%C3%A3o.+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
+  </a>
+</p>
 
-Sou estudante de ADS em transição de carreira para a área de Dados. Atualmente desenvolvo projetos práticos utilizando Python, SQL, Excel e Power BI, explorando análise de dados, visualização e interpretação de resultados. 😁
+<p align="center"><i>Data Analyst</i></p>
 
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q0bGlmaWwzZDd1am9odDgzamppMHRmaGh2anJmaThtM3JyNTRzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9SVdZvlJYzTdS/giphy.gif" />
+  
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hisjoao.hisjoao&left_color=saddlebrown&right_color=rosybrown"  />
+</div>
+
+###
+
+<h1 align="center"></h1>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<p align="left">João Miranda  🐱‍💻<br><br>🐍 Python | 🗄️ SQL | 📊 Power BI | 💻 ADS Student<br><br>Estudante de Análise e Desenvolvimento de Sistemas focado em Data Analytics e Engenharia de Dados. <br>Adoro gatos, marrom,  ler e jogar. 😁</p>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="center">
+</div>
+
+###
 <br/>
 
 <p align="left">
@@ -36,8 +86,3 @@ Sou estudante de ADS em transição de carreira para a área de Dados. Atualment
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hisjoao.hisjoao&left_color=saddlebrown&right_color=rosybrown"  />
-</div>
-
-###
