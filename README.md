@@ -1,4 +1,4 @@
-# 🧝🏻 João Miranda
+# 🐱‍💻 João Miranda
 *`Data Analyst`* 
 
 Sou estudante de ADS em transição de carreira para a área de Dados. Atualmente desenvolvo projetos práticos utilizando Python, SQL, Excel e Power BI, explorando análise de dados, visualização e interpretação de resultados. 😁
@@ -18,7 +18,7 @@ Sou estudante de ADS em transição de carreira para a área de Dados. Atualment
 </p>
 
 
-### 🐱‍💻 Linguagens e Tecnologias
+### 👾 Linguagens e Tecnologias
 
 
 
