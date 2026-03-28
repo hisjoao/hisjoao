@@ -6,9 +6,6 @@
 </p>
 
 <p align="center"><i>Data Analyst</i></p>
-
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q0bGlmaWwzZDd1am9odDgzamppMHRmaGh2anJmaThtM3JyNTRzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9SVdZvlJYzTdS/giphy.gif" />
   
 
 ###
