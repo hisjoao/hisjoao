@@ -18,7 +18,7 @@ Sou estudante de ADS em transição de carreira para a área de Dados. Atualment
 </p>
 
 
-### 👾 Linguagens e Tecnologias
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -28,7 +28,7 @@ Sou estudante de ADS em transição de carreira para a área de Dados. Atualment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-###
+### 
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=hisjoao&locale=en&mode=daily&theme=kacho_ga&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
