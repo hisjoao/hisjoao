@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">João Miranda  🐱‍💻<br><br>🐍 Python | 🗄️ SQL | 📊 Power BI | 💻 ADS Student<br><br>Estudante de Análise e Desenvolvimento de Sistemas focado em Data Analytics e Engenharia de Dados. <br>Adoro gatos, marrom,  ler e jogar. 😁</p>
+<p align="left">João Miranda  🐱‍💻<br><br>🐍 Python | 🗄️ SQL | 📊 Power BI | 💻 ADS Student<br><br>Estudante de Análise e Desenvolvimento de Sistemas focado em Data Analytics e Engenharia de Dados. <br>Adoro marrom, gatos, estudar, ler e jogar. 😁</p>
 
 ###
 
